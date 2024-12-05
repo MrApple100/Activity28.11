@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <data>
+
+    </data>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+
+    <TextView
+        android:id="@+id/Second2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SECOND"
+        android:textSize="25dp"
+        />
+
+    <Button
+        android:id="@+id/Click2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="click"/>
+    <Button
+        android:id="@+id/Return2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="return"/>
+
+
+</LinearLayout>
+</layout>
